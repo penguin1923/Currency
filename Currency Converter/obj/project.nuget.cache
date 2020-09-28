@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t7cVViV5N/vP62SbQal8K72F4BYNngmjXQCxWGfK0j4pZj9dEAwTWrCteIKINB8ta8AjVsJk+wVbfY+cm/YrDg==",
+  "success": true,
+  "projectFilePath": "F:\\Code\\Personal\\Currency Converter\\Currency Converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\steel\\.nuget\\packages\\restsharp\\106.11.5\\restsharp.106.11.5.nupkg.sha512"
+  ],
+  "logs": []
+}
