@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code\\Personal\\Currency Converter\\Currency Converter.csproj": {}
+    "F:\\Code\\Personal\\Currency\\Currency\\Currency Converter\\Currency Converter.csproj": {}
   },
   "projects": {
-    "F:\\Code\\Personal\\Currency Converter\\Currency Converter.csproj": {
+    "F:\\Code\\Personal\\Currency\\Currency\\Currency Converter\\Currency Converter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code\\Personal\\Currency Converter\\Currency Converter.csproj",
+        "projectUniqueName": "F:\\Code\\Personal\\Currency\\Currency\\Currency Converter\\Currency Converter.csproj",
         "projectName": "Currency Converter",
-        "projectPath": "F:\\Code\\Personal\\Currency Converter\\Currency Converter.csproj",
+        "projectPath": "F:\\Code\\Personal\\Currency\\Currency\\Currency Converter\\Currency Converter.csproj",
         "packagesPath": "C:\\Users\\steel\\.nuget\\packages\\",
-        "outputPath": "F:\\Code\\Personal\\Currency Converter\\obj\\",
+        "outputPath": "F:\\Code\\Personal\\Currency\\Currency\\Currency Converter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -41,6 +41,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
             "RestSharp": {
               "target": "Package",
               "version": "[106.11.5, )"

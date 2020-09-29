@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "t7cVViV5N/vP62SbQal8K72F4BYNngmjXQCxWGfK0j4pZj9dEAwTWrCteIKINB8ta8AjVsJk+wVbfY+cm/YrDg==",
+  "dgSpecHash": "URKMJnsj8u7s4/eCsyrw+QaIsRZHllAajR8RgD02X9tf+5bzNu98VgItpbTSVzWc3J0yw7oySVEq3ym3DgzjtQ==",
   "success": true,
-  "projectFilePath": "F:\\Code\\Personal\\Currency Converter\\Currency Converter.csproj",
+  "projectFilePath": "F:\\Code\\Personal\\Currency\\Currency\\Currency Converter\\Currency Converter.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\steel\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\steel\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
     "C:\\Users\\steel\\.nuget\\packages\\restsharp\\106.11.5\\restsharp.106.11.5.nupkg.sha512"
   ],
   "logs": []
